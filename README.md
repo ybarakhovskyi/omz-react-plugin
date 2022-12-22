@@ -1,5 +1,5 @@
-# omz-react-plugin
-A barely small plugin for Oh My Zsh to simplify creation of React components.
+# ⚛ omz-react-plugin
+A barely small plugin for [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh#readme) to simplify creation of React components.
 
 Maybe it will get some additional functionality in the future.
 
